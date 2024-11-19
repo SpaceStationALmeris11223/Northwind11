@@ -20,3 +20,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+.table {
+  margin-top: 20px;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tr:hover {
+  background-color: #e9ecef;
+}
+

@@ -9,47 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Northwind
 build_property.RootNamespace = Northwind
-build_property.ProjectDir = /workspaces/Northwind/Northwind/
+build_property.ProjectDir = /workspaces/Northwind11/Northwind/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /workspaces/Northwind/Northwind
+build_property.MSBuildProjectDirectory = /workspaces/Northwind11/Northwind
 build_property._RazorSourceGeneratorDebug = 
 
-[/workspaces/Northwind/Northwind/Pages/Customers.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Customers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/EmployeeManagement.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/EmployeeManagement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRW1wbG95ZWVNYW5hZ2VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/Error.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/Index.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/Privacy.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/workspaces/Northwind11/Northwind/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/_ViewImports.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/_ViewStart.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/workspaces/Northwind/Northwind/Pages/Shared/_Layout.cshtml]
+[/workspaces/Northwind11/Northwind/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eqspsdyb6w

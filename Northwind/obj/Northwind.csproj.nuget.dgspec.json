@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Northwind/Northwind/Northwind.csproj": {}
+    "/workspaces/Northwind11/Northwind/Northwind.csproj": {}
   },
   "projects": {
-    "/workspaces/Northwind/Northwind/Northwind.csproj": {
+    "/workspaces/Northwind11/Northwind/Northwind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Northwind/Northwind/Northwind.csproj",
+        "projectUniqueName": "/workspaces/Northwind11/Northwind/Northwind.csproj",
         "projectName": "Northwind",
-        "projectPath": "/workspaces/Northwind/Northwind/Northwind.csproj",
+        "projectPath": "/workspaces/Northwind11/Northwind/Northwind.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Northwind/Northwind/obj/",
+        "outputPath": "/workspaces/Northwind11/Northwind/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -45,7 +45,7 @@
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.6, )"
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
